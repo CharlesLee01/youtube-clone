@@ -1,3 +1,3 @@
 # Youtube Clone
 
-![Local Image](images/capture.PNG)
+![Local Image](images/Capture.PNG)
